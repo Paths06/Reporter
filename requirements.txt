@@ -32,11 +32,6 @@ typing-extensions
 python-dotenv
 cryptography
 
-# File and I/O Operations
-io
-pathlib
-tempfile
-
 # Date and Time Handling
 python-dateutil
 
