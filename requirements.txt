@@ -46,11 +46,3 @@ regex>=2023.6.3
 # Caching and Performance
 diskcache>=5.6.0
 functools32>=3.2.3
-
-# Web Scraping (optional for enhanced document fetching)
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-
-# Additional Utilities
-tqdm>=4.65.0
-loguru>=0.7.0
