@@ -1,44 +1,44 @@
 # Core Streamlit and Web Framework
-streamlit>=1.28.0
-streamlit-option-menu>=0.3.6
+streamlit
+streamlit-option-menu
 
 # Google Gemini AI
-google-generativeai>=0.3.0
-google-cloud-aiplatform>=1.38.0
+google-generativeai
+google-cloud-aiplatform
 
 # Data Processing and Analysis
-pandas>=2.0.0
-numpy>=1.24.0
-openpyxl>=3.1.0
+pandas
+numpy
+openpyxl
 
 # Document Processing
-PyPDF2>=3.0.1
-python-docx>=0.8.11
-pdfplumber>=0.9.0
-python-pptx>=0.6.21
+PyPDF2
+python-docx
+pdfplumber
+python-pptx
 
 # Data Visualization
-plotly>=5.15.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-altair>=5.0.0
+plotly
+matplotlib
+seaborn
+altair
 
 # JSON and Data Handling
-jsonschema>=4.17.0
-pydantic>=2.0.0
-typing-extensions>=4.5.0
+jsonschema
+pydantic
+typing-extensions
 
 # Security and Environment
-python-dotenv>=1.0.0
-cryptography>=41.0.0
+python-dotenv
+cryptography
 
 # File and I/O Operations
-io>=0.0.0
-pathlib>=1.0.0
-tempfile>=0.0.0
+io
+pathlib
+tempfile
 
 # Date and Time Handling
-python-dateutil>=2.8.2
+python-dateutil
 
 # Caching and Performance
 diskcache>=5.6.0
