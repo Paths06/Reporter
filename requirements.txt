@@ -1,40 +1,27 @@
-# Core Streamlit and Web Framework
-streamlit
-streamlit-option-menu
+
+# Minimal requirements for Python 3.13+ compatibility
+# Core Framework
+streamlit>=1.28.0
 
 # Google Gemini AI
-google-generativeai
-google-cloud-aiplatform
+google-generativeai>=0.8.0
 
-# Data Processing and Analysis
-pandas
-numpy
-openpyxl
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
 
 # Document Processing
-PyPDF2
-python-docx
-pdfplumber
-python-pptx
+PyPDF2>=3.0.1
+python-docx>=1.0.0
 
-# Data Visualization
-plotly
-matplotlib
-seaborn
-altair
+# Visualization
+plotly>=5.15.0
 
-# JSON and Data Handling
-jsonschema
-pydantic
-typing-extensions
+# JSON and Data Validation
+pydantic>=2.0.0
 
-# Security and Environment
-python-dotenv
-cryptography
+# Date/Time
+python-dateutil>=2.8.2
 
-# Date and Time Handling
-python-dateutil
-
-# Caching and Performance
-diskcache>=5.6.0
-functools32>=3.2.3
+# Environment Variables
+python-dotenv>=1.0.0
